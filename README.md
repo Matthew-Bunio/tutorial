@@ -13,12 +13,6 @@ HTML dialog is a new tag introduced in HTML5.
 
 ### Script
 
-Import as ES modules:
-
-```js
-import '@github/details-dialog-element'
-```
-
 Include with a script tag:
 
 ```html
