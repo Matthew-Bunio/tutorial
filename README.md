@@ -1,5 +1,5 @@
 
-## Fetch API
+## Dialog Tag
 
 HTML <dialog> tag is used to create a new popup dialog on a web page. This tag represents a dialog box or other interactive component like window.
 
